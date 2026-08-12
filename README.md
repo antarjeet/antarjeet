@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="400">
+  <img src="https://skillicons.dev/icons?i=nodejs,vscode,react,express,bootstrap,html,css,ubuntu,js" />
 </p>
 
 ---
