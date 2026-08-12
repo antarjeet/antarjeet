@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Antarjeet 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/GIFs-For-Readme/output/waving-hand.gif" width="60"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
 </p>
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="400">
 </p>
 
 ---
