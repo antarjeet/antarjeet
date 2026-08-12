@@ -38,7 +38,7 @@
 ---
 
 ### 📊 GitHub Stats
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=antarjeet&theme=radical" />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=antarjeet&show_icons=true&theme=radical" alt="antarjeet's GitHub stats" />
 </p>
