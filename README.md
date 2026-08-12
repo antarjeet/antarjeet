@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Antarjeet 👋</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,vscode,react,express,bootstrap,html,css,ubuntu,js" />
 </p>
 
