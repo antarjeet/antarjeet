@@ -49,10 +49,9 @@
 
 ---
 
-### 📊 GitHub Stats
+📈 Activity Graph
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=antarjeet&theme=radical" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=antarjeet&theme=react-dark" />
 ---
 
 <p align="center">
